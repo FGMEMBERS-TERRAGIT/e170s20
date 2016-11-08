@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Airport/ndb.ac 178.467778 -18.014722 15.25 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 178.3931587 -18.1175093 -0.06 189.98
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 178.3945584 -18.1216095 -0.18 2.4
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 178.4262485 -18.124795 -0.04 93.97
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 178.3945722 -18.1175895 -0.07 2.1
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 178.3949222 -18.1188425 -0.11 8.67
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 178.3967157 -18.1216736 -0.22 54.37
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 178.3928226 -18.1114208 -0.01 221.37
